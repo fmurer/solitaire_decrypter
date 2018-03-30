@@ -24,3 +24,10 @@ jb	# black joker
 jr	# red joker
 ...
 ```
+
+# Example
+```bash
+./solitaire.py -c "GTIFL RVLEJ TAVEY ULDJO KCCOK P" -d ./deck.txt 
+Cipher Text: GTIFLRVLEJTAVEYULDJOKCCOKP
+Plain Text: THEPASSWORDISCRYPTONOMICON
+```
